@@ -1,0 +1,11 @@
+NAME : single.397.tour
+COMMENT : Length = 397
+COMMENT : Found by LKH [Keld Helsgaun] Sun Feb  1 19:17:36 2026
+TYPE : TOUR
+DIMENSION : 3
+TOUR_SECTION
+1
+3
+2
+-1
+EOF
