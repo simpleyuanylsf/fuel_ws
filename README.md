@@ -26,3 +26,6 @@ roslaunch exploration_manager exploration.launch
 ```bash
 rosrun fuel_planner fuel_planner.launch
 ```
+## 反馈
+
+若有问题 发邮件到256395180@qq.com
